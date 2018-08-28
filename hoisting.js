@@ -19,7 +19,6 @@ function crazy() {
 function sayMyName() {
   // fix the code in here:
   var name = "Kristen";
-  console.log(name);
   sayMy();
 
   function sayMy() {
